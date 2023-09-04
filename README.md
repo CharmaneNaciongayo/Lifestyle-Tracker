@@ -1,5 +1,5 @@
 # Lifestyle-Tracker
-A text-based lifestyle tracker to manage your calorie intake. Built with Java.
+A text-based lifestyle tracker to manage your health through diet and physical activity. Built with Java.
 
 # Accepted Input
 The system accepts five (5) commands (not case-sensitive), described below.
